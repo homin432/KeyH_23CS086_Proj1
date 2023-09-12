@@ -23,7 +23,7 @@ class VendingMachine:
             else:
                 print("Item not found in inventory.")
     
-    #def give_change(self, change):
+    #def give_change(self, change):  
 
 
     
